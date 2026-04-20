@@ -49,8 +49,11 @@ The program generates:
     - gaps
 
 Alignment is displayed in a format:
+
 ACTG
-**|*
+
+\*\*|*
+
 ACTT
 
 **Visualization**
